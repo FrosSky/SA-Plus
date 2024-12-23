@@ -34,7 +34,7 @@ SA-Plus is only supported for PCs running Windows.
 
 **Q: Is this website official?**
 
-**A:** Yes, any website claiming to be us or offering downloads is not us.
+**A:** Yes, any website claiming to represent us or providing downloads claiming to come from us is not legitimate.
 
 **Q: Why was multi-instance launching removed?**
 
@@ -60,26 +60,3 @@ You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-appla
 It's not unlikely that Windows Smartscreen will show a popup when you run Bloxstrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
 
 Once installed, Bloxstrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
-
-## Code
-
-Bloxstrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
-
-
-[shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
-[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/bloxstraplabs/bloxstrap/ci-release.yml?branch=main&label=builds
-[shield-repo-releases]: https://img.shields.io/github/downloads/bloxstraplabs/bloxstrap/latest/total?color=981bfe
-[shield-repo-latest]:   https://img.shields.io/github/v/release/bloxstraplabs/bloxstrap?color=7a39fb
-
-[shield-crowdin-status]: https://badges.crowdin.net/bloxstrap/localized.svg
-[shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
-[shield-tenor-meme]:     https://img.shields.io/badge/mom_made-pizza_rolls-orange
-
-[repo-license]:  https://github.com/bloxstraplabs/bloxstrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/bloxstraplabs/bloxstrap/actions
-[repo-releases]: https://github.com/bloxstraplabs/bloxstrap/releases
-[repo-latest]:   https://github.com/bloxstraplabs/bloxstrap/releases/latest
-
-[crowdin-project]: https://crowdin.com/project/bloxstrap
-[discord-invite]:  https://discord.gg/nKjV3mGq6R
-[tenor-gif]:       https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif
