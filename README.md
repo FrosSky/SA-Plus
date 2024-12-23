@@ -1,4 +1,4 @@
-> [!CAUTION]
+8> [!CAUTION]
 > The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
@@ -32,9 +32,9 @@ SA-Plus is only supported for PCs running Windows.
 
 **A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com).
 
-**Q: Can using this get me banned?**
+**Q: Is this website official?**
 
-**A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
+**A:** Yes, any website claiming to be us or offering downloads is not us.
 
 **Q: Why was multi-instance launching removed?**
 
