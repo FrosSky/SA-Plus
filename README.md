@@ -18,6 +18,10 @@ SA-Plus is only supported for PCs running Windows.
 
 **A:** It’s possible that your device doesn’t support it, which might be causing the problem. We’re doing our best to resolve the crash issue.
 
+**Q: Can i get banned?**
+
+**A: No, but outside of single-player, there is a risk of being banned depending on the rules. I suggest using this for single-player only**
+
 ## Features
 
 - Hassle-free Discord Rich Presence to let your friends know what you're playing at a glance
