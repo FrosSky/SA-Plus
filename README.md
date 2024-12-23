@@ -14,9 +14,9 @@ SA-Plus is only supported for PCs running Windows.
 
 **A:** Yes, any website claiming to represent us or providing downloads claiming to be from us is unauthorized.
 
-**Q: Why was multi-instance launching removed?**
+**Q: Why it's crash?**
 
-**A:** It was removed starting with v2.6.0 for the [reasons stated here](https://github.com/bloxstraplabs/bloxstrap/wiki/Plans-to-remove-multi%E2%80%90instance-launching-from-Bloxstrap). It may be added back in the future when there are less issues with doing so.
+**A:** It’s possible that your device doesn’t support it, which might be causing the problem. We’re doing our best to resolve the crash issue.
 
 ## Features
 
