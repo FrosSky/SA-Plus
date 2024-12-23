@@ -12,7 +12,7 @@ SA-Plus is only supported for PCs running Windows.
 
 **Q: Is this website official?**
 
-**A:** Yes, any website claiming to represent us or providing downloads claiming to come from us is not legitimate.
+**A:** Yes, any website claiming to represent us or providing downloads claiming to be from us is unauthorized.
 
 **Q: Why was multi-instance launching removed?**
 
